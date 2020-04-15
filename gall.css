@@ -1,0 +1,61 @@
+.MIDDLE{
+    background-image: url("istockphoto-478389238-170667a.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    color: darkkhaki;
+}
+#r{
+  padding: 30px;
+  text-align: center;
+background-image: url("KsT4YS.jpg");
+background-repeat: no-repeat;
+    background-size: 100% 700px;
+    
+}
+
+.card-body{
+    height: 250px;
+}
+.card{
+    height: 200px;
+}
+#tt{
+    height: 300px;
+    background-image: url("11015_14_site_clear.jpeg"),url("Swiggy-Super.jpg"),url("25-043929-can_you_make_chinese_takeout_healthy.jpg"),url("index.jpg");
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size: 30% 300px,55% 300px,80% 300px,100% 300px;
+
+}
+.header:hover{
+    text-shadow: 4px 4px 4px purple;
+}
+#one{
+    background-image: url("index3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    color: darkturquoise;
+}
+.header{
+    background-image: url("images4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+    color: turquoise;
+    
+}
+#two{
+    background-image: url("bravissimos190501051.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+    color: chartreuse;
+    text-shadow:3px 3px 3px darkturquoise;
+}
+#ee:hover{
+    transform: scale(1.1);
+}
+#r2:hover{
+    transform: scale(1.1);
+    text-shadow:3px 3px 3px lightseagreen;
+}
+#op:hover{
+transform: scale(1.1);
+}
